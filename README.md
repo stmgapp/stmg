@@ -1,5 +1,5 @@
 # StMG App (nicht offiziell)
-Die repo der StMG Stundenplan App. Dies ist **keine offizielle App des St. Michael Gymnasiums Bad Münstereifel**
+Dies ist **keine offizielle App des St. Michael Gymnasiums Bad Münstereifel**
 
 ## Datenschutzhinweis
 Der Schutz Ihrer Privatsphäre ist uns wichtig. Wir hoffen, dass die folgende Erklärung Ihnen hilft zu verstehen, wie unsere App mit persönlich identifizierenden Informationen umgeht ('PII'), die Sie uns über das Internet (die Google Play-Plattform) zur Verfügung stellen.
