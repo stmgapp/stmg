@@ -1,7 +1,7 @@
 # StMG App
 Die Stundenplan App des St. Michael Gymnasiums Bad Münstereifel. 
 
-<a href="https://play.google.com/store/apps/details?id=com.miguelcz.stmg_app"><img src="https://img.shields.io/badge/Version-1.0.2-green?style=for-the-badge" alt="version"></a>
+<a href="https://play.google.com/store/apps/details?id=com.miguelcz.stmg_app"><img src="https://img.shields.io/badge/Version-1.0.1-green?style=for-the-badge" alt="version"></a>
 <a href=""><img src="https://img.shields.io/badge/rating-5/5-green?style=for-the-badge" alt="rating"/></a>
 <!-- <a href="https://www.paypal.com/donate?hosted_button_id=8WJ4EYNANKS3Q"><img src="https://img.shields.io/badge/Donate-PayPal-yellow?style=for-the-badge" alt="Donate with PayPal" /></a> -->
 
